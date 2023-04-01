@@ -48,7 +48,7 @@
     "framework-arduinoadafruitnrf52": {
       "type": "framework",
       "optional": true,
-      "version": "https://github.com/meshtastic/Adafruit_nRF52_Arduino.git"
+      "version": "https://github.com/johndeerdoe/Adafruit_nRF52_Arduino.git"
     },
     "framework-arduinonordicnrf5": {
       "type": "framework",
